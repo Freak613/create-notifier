@@ -13,7 +13,7 @@ npm install create-notifier
 ## createNotifier
 
 ```javascript
-import { createNotifier } from "create-notifier";
+import createNotifier from "create-notifier";
 
 const notifier = createNotifier();
 // It tracks age and increase it with every `notify` call
